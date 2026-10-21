@@ -1,6 +1,7 @@
 ---
 name: markitdown
-description: Use the markitdown CLI to convert document files into plain Markdown text. Use in scenarios that call for text-based reading of document files (文本化读取文档文件): quickly extracting readable text from local PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx/.xls), HTML, CSV/TSV, JSON, XML, EPUB, images (EXIF metadata), audio (metadata), or ZIP archives; piping document content into the agent's context; or batch-converting files to .md. Prefer a dedicated OCR-capable document parsing tool for scanned PDFs or images that require OCR, long documents needing page/block-level locators and citations, or high-fidelity table/formula extraction.
+description: >-
+  Use the markitdown CLI to convert document files into plain Markdown text. Use in scenarios that call for text-based reading of document files (文本化读取文档文件): quickly extracting readable text from local PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx/.xls), HTML, CSV/TSV, JSON, XML, EPUB, images (EXIF metadata), audio (metadata), or ZIP archives; piping document content into the agent's context; or batch-converting files to .md. Prefer a dedicated OCR-capable document parsing tool for scanned PDFs or images that require OCR, long documents needing page/block-level locators and citations, or high-fidelity table/formula extraction.
 ---
 
 # markitdown
